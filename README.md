@@ -1,6 +1,8 @@
 # 2a_Stop_and_Wait_Protocol
 ## AIM 
 To write a python program to perform stop and wait protocol
+name : vutukuri sai kumar Reddy
+ref no:212224230307
 ## ALGORITHM
 1. Start the program.
 2. Get the frame size from the user
